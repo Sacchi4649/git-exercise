@@ -1,4 +1,3 @@
 git exercise
 
-adding new lines .
-commit.
+must finish project within deadline
