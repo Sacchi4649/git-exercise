@@ -1,1 +1,4 @@
 git exercise
+
+adding new lines .
+commit.
